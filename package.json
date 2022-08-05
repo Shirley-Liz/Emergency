@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
-    "mongoose": "^5.7.4",
+    "mongoose": "^5.7.5",
     "nwb": "^0.23.0",
     "react": "^16.10.2",
     "react-bootstrap": "^1.0.0-beta.14",
